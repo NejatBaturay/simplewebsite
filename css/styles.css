@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+}
+
+h1 {
+    color: #00a2ff;
+    font-family: 'Finlandica', sans-serif;
+    font-size: 3.500rem;
+    line-height: 2;
+    margin-top: 100px auto 0px auto;
+
+}
+
+h2 {
+    color: #b400f5;
+    font-size: 2.5rem;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    color: blue;
+}
+
+p{
+    color:#000000;
+}
+
+a {
+    color: #10eef6;
+    font-size: 2rem;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+
+.top-container {
+    background-color: aqua;
+    position: relative;
+    padding-top: 150px;
+
+}
+
+
+.middle-container {
+    background-color: #00d9ff;
+    padding-bottom: 100px;
+}
+
+
+.computer {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bold;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 500px;
+    top: 100px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 600px;
+    bottom:400px;
+
+}
+
+.mountain-img {
+    position: relative;
+    margin-top: 100px;
+    width: 40%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left ;
+    line-height: 2;
+
+}
+.computer-img{
+    width: 20%;
+    float:left;
+    margin-right: 30px;
+}
+.basketball-img{
+    width: 18%;
+    float:right;
+    margin-right:300px;
+}
+hr{
+  
+    color:#ffffff;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+    margin: 40px auto 0px auto;
+
+}
+
+.btn {
+    background: #00aeff;
+    background-image: -webkit-linear-gradient(top, #00aeff, #b51cdb);
+    background-image: -moz-linear-gradient(top, #00aeff, #b51cdb);
+    background-image: -ms-linear-gradient(top, #00aeff, #b51cdb);
+    background-image: -o-linear-gradient(top, #00aeff, #b51cdb);
+    background-image: linear-gradient(to bottom, #00aeff, #b51cdb);
+    -webkit-border-radius: 26;
+    -moz-border-radius: 26;
+    border-radius: 26px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  
+
+  
+.bottom-container { 
+    padding-top:50px;
+    height: 150px;
+    background-color: #9e5d98;
+}
+
+.htmlcss{
+    padding-bottom: 50px;
+}
+
+.credit{
+    color:white   
+}
